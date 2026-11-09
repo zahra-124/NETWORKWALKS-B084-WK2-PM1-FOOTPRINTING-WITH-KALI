@@ -89,7 +89,7 @@ Through this project, I developed a better understanding of:
 
 ## Ethical Considerations
 
-This project was conducted for educational purposes as part of cybersecurity training, with appropriate authorization from NetworkWalks.
+This project was conducted for educational purposes as part of cybersecurity training, **with appropriate authorization from NetworkWalks**.
 
 Reconnaissance activities should only be performed against systems you own or have explicit permission to assess. Findings should be handled responsibly and should not be used to access, disrupt or compromise systems.
 
